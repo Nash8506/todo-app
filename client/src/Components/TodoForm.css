@@ -10,7 +10,7 @@
     flex: 1;
     padding: 8px;
     margin-right: 10px;
-    width: calc(100% - 26px); /* Adjusted to fit inside the form's width */
+    width: calc(100% - 26px); 
   }
   
   .todo-button {
@@ -18,11 +18,11 @@
     background-color: #4CAF50; 
     color: #fff; 
     border: none; 
-    border-radius: 5px; /* rounded corners */
-    cursor: pointer; /* pointer cursor on hover */
+    border-radius: 5px; 
+    cursor: pointer; 
   }
   
   .todo-button:hover {
-    background-color: #3e8e41; /* darker green on hover */
+    background-color: #3e8e41; 
   }
   
