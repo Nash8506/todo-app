@@ -1,0 +1,28 @@
+  .todo-form {
+    position: absolute;
+    top: 25%;
+    left: 30%;
+    display: flex;
+    width: 600px; 
+  }
+  
+  .todo-input {
+    flex: 1;
+    padding: 8px;
+    margin-right: 10px;
+    width: calc(100% - 26px); /* Adjusted to fit inside the form's width */
+  }
+  
+  .todo-button {
+    padding: 8px 16px;
+    background-color: #4CAF50; 
+    color: #fff; 
+    border: none; 
+    border-radius: 5px; /* rounded corners */
+    cursor: pointer; /* pointer cursor on hover */
+  }
+  
+  .todo-button:hover {
+    background-color: #3e8e41; /* darker green on hover */
+  }
+  
