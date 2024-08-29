@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/todo-app/static/css/main.92582723.css",
+    "main.js": "/todo-app/static/js/main.47b775be.js",
+    "static/media/landscape-anime-digital-art-fantasy-art-wallpaper-preview.jpg": "/todo-app/static/media/landscape-anime-digital-art-fantasy-art-wallpaper-preview.c1658fac9e9e0905d752.jpg",
+    "index.html": "/todo-app/index.html",
+    "main.92582723.css.map": "/todo-app/static/css/main.92582723.css.map",
+    "main.47b775be.js.map": "/todo-app/static/js/main.47b775be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92582723.css",
+    "static/js/main.47b775be.js"
+  ]
+}
